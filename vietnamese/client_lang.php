@@ -1,0 +1,28 @@
+<?php  if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+$lang['client_list'] = 'Danh sách khách hàng';
+$lang['all_client'] = 'Tất cả khách hàng';
+$lang['name'] = 'Tên';
+$lang['client'] = 'Khách hàng';
+$lang['clients'] = 'Khách hàng';
+$lang['client_status'] = 'Chọn Loại';
+$lang['select'] = 'Chọn';
+$lang['manage_client'] = 'Quản lý Khách hàng';
+$lang['clients_registration'] = 'Đăng ký Khách hàng';
+$lang['clients_registered'] = 'Khách hàng đăng ký';
+$lang['client_registered_successfully'] = 'Khách hàng đăng ký thành công!';
+$lang['activity_added_new_company'] = 'Thêm khách hàng mới';
+$lang['activity_update_company'] = 'Cập nhật Khách hàng mới';
+$lang['activity_update_contact'] = 'Cập nhật liên hệ mới';
+$lang['activity_update_contact'] = 'Cập nhật liên hệ mới';
+$lang['activity_added_new_contact'] = 'Thêm địa chỉ liên hệ mới';
+$lang['activity_deleted_contact'] = 'Xóa địa chỉ liên hệ';
+$lang['delete_contact'] = 'Thông tin liên lạc của khách hàng Đã xóa thành công!';
+$lang['activity_deleted_client'] = 'Đã xoá Khách hàng';
+$lang['delete_client'] = 'Thông tin khách hàng bị xóa thành công!';
+$lang['select_type'] = 'Chọn Loại';
+$lang['client_contact'] = 'Liên hệ';
+$lang['hosting'] = 'Hosting';
+$lang['converted_from'] = 'Đã chuyển đổi Form';
+$lang['without_converted'] = 'Không có Chuyển đổi';
+$lang['converted_client'] = 'Chuyển đổi Khách hàng';
